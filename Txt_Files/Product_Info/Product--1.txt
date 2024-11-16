@@ -1,0 +1,6 @@
+1
+550.0
+Nestle
+Coffee
+Product_Images\\Nestle.png
+95

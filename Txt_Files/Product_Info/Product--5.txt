@@ -1,0 +1,6 @@
+5
+45.0
+Mars
+Chocolate
+Product_Images/chocolate1.png
+99

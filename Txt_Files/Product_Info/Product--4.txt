@@ -1,0 +1,6 @@
+4
+500.0
+Cappuccino
+Coffee
+Product_Images/element3-removebg-preview.png
+100

@@ -1,0 +1,6 @@
+8
+90.0
+Dairy_Milk
+Chocolate
+Product_Images/chocolate4.png
+98

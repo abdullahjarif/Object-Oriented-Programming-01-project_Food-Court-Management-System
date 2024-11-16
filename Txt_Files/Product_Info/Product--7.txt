@@ -1,0 +1,6 @@
+7
+45.0
+KitKat
+Chocolate
+Product_Images/chocolate3.png
+8100
